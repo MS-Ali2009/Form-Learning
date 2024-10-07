@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 19px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+form {
+    width: 300px;
+    margin: 20px auto; /* Centers the form horizontally and vertically */
+    padding: 20px;
+    border: 2px solid black; /* Black border around the form */
+    border-radius: 5px; /* Optional: rounded corners */
+}
